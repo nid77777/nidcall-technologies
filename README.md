@@ -81,7 +81,7 @@ Violations result in immediate account suspension and are reported to relevant a
 ## Links
 
 - Website: [https://nidcall.com](https://nidcall.com)
-- LinkedIn: [NidCall Technologies LLC](https://www.linkedin.com/company/nid-technologies-llc)
+- LinkedIn: [NidCall Technologies LLC](https://www.linkedin.com/company/nid-technologies-call)
 
 ---
 
